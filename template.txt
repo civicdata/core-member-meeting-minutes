@@ -1,0 +1,49 @@
+# Month Year
+
+// top list
+<ol type="I">
+  <li></li>
+</ol>
+
+// sub list
+  <ol type="A">
+    <li></li>
+  </ol>
+
+// sub-sub list
+  <ol type="1">
+    <li></li>
+  </ol>
+
+// sub-sub-sub list
+  <ol type="a">
+    <li></li>
+  </ol>
+
+// sub-sub-sub-sub list
+    <ol type="i">
+      <li></li>
+    </ol>
+
+
+// nested list example
+<ol type="I">
+  <li>I'm in the top list!</li>
+    <ol type="A">
+    <li>I'm in the sub list!</li>
+      <ol type="1">
+      	<li>I'm in the sub-sub list!</li>
+        <ol type="a">
+            <li>I'm in the sub-sub-sub list!</li>
+              <ol type="i">
+                <li>I'm in the sub-sub-sub-sub list!</li>
+                <li>I'm in the sub-sub-sub-sub list!</li>
+              </ol>
+            <li>I'm in the sub-sub-sub list!</li>
+        </ol>
+        <li>I'm in the sub-sub list!</li>
+      </ol>
+    	<li>I'm in the sub list!</li>
+    </ol>
+    <li>I'm in the top list!</li>
+</ol>
