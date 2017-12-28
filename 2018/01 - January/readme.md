@@ -1,0 +1,1 @@
+# January 2018 Core Member Minutes
