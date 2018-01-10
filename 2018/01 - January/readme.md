@@ -60,5 +60,16 @@
   <ol type="A">
     <li>Accessibility</li>
     <li>Github:</li>
+    
+   <li>Next Actions</li>
+   <ol type="1">
+   <li>Code Louisville outreach</li>
+   <li>Understand CfA leadership roles/elections - Margeaux</li>
+   <li>Membership volunteer hour options</li>
+   <li>Calendar and jobs board and blog - Leigh, Eric Bickel?, Margeaux, Tyler</li>
+   <li>Create event checklist - Bethany</li>
+   <li>Create marketing template - Bethany</li>
+   <li>Year of Women concept work - MGO</li>
+
   </ol>
 </ol>
